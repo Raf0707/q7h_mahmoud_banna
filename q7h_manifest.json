@@ -1,0 +1,27 @@
+{
+  "format": 2,
+  "layout_version": 2,
+  "reciter_id": "mahmoud_banna",
+  "canonical_ayah_count": 6236,
+  "expected_ayah_count": 6236,
+  "istiadha": {
+    "present": true,
+    "source_archive": "dussary.zip",
+    "source_name": "001000.mp3",
+    "sha256": "346c45879e6cc41c786ebec947046b814f130eee3e5f55700de65a705a2d5dc5",
+    "path": "istiadha/istiadha.mp3"
+  },
+  "basmala": {
+    "present": true,
+    "source_archive": "dussary.zip",
+    "source_name": "001001.mp3",
+    "sha256": "efc922e29b8e10cd09e83617fe85ba09a2a77ed9e449a09b9e515250d2806ce0",
+    "path": "basmala/basmala.mp3",
+    "duplicated_to_surah_folders": 114,
+    "surah_path_pattern": "{surah:03d}/basmala.mp3"
+  },
+  "ignored_extra_numeric_mp3_count": 0,
+  "ignored_extra_numeric_mp3_sample": [],
+  "source_archive": "mahmoud_banna.zip",
+  "canonical_audio_bytes": 383583607
+}
